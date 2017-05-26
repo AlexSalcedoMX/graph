@@ -1,0 +1,12 @@
+{
+    "app_name": "kpulse_senior_test_solution",
+    "app_url": "",
+    "port": 3000,
+
+    "mongodb_uri": "localhost/KMetrics",
+    "mongodb_user": "",
+    "mongodb_password": "",
+    "mongodb_debug": true,
+    "graphiql": true,
+    "graphql_require_resolvers": true
+}
